@@ -14,7 +14,7 @@ Take a look at my [portfolio](https://michele-marschner-portfolio.netlify.app) t
 ## Goals 2020
 ✔️ start a **full-time training** to become a **professional developer**<br />
 🔘 find an entry position as **junior JS developer**<br />
-🔘 contribute to at least one **open source project**<br />
+✔️ contribute to at least one **open source project**<br />
 🔘  finish a MVP for our **Silver Surfer App** - a platform that connects and helps people 60+ - together with my project partner<br />
 🔘 get acquainted with **Next.js** and build my first project with it
 <br />
