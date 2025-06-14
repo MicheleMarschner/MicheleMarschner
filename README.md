@@ -5,7 +5,6 @@ I'm [Michèle](https://michele-marschner-portfolio-2025.netlify.app/) - driven w
 
 **My Work Values**<br />
 **🌱 never stop growing:** I have a natural curiosity and there is no better feeling as when I wrap my head around new topics. I thrive in environments with variety, change and constant learning opportunities.<br />
-
 **🙌 no ego:** A great part of successful projects is based on good teamwork with open communication, recognition and respect as central key aspects. <br />
 **👩 no masks:** I believe in the power of living authentically and consciously <br />
 **💯% commitment:** Working on meaningful tasks motivates and energizes me.  Being self-driven, I enjoy a certain level of autonomy and to embrace the  responsibility that comes with it.  
