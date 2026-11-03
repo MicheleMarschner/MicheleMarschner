@@ -1,7 +1,7 @@
 
 # Hi, I'm Michèle! 👋
 
-I'm currently finishing my Master's in Computer Science, although my path started in business administration. Along the way, I've also worked on an entrepreneurial project and taught programming, giving me the chance to experience both the business and technical sides of things.
+I'm currently finishing my Master's in Computational Science, although my path started in business administration. Along the way, I've also worked on an entrepreneurial project and taught programming, giving me the chance to experience both the business and technical sides of things.
 
 I've always had a hard time leaving a good "why?" unanswered — or a tricky problem unsolved. That's part of what drew me to software development in the first place, and what keeps me exploring everything from building web applications to investigating what deep learning models rely on when making predictions.
 
