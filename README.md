@@ -7,7 +7,7 @@ I've always had a hard time leaving a good "why?" unanswered — or a tricky pro
 
 ## 🔭 What I'm Currently Exploring
 
-### Master's Thesis — Explainable AI & Object Detection
+### Master's Thesis — Explainable AI for Object Detection
 
 **Which visual concepts do deep learning (DL) models rely on for object detection — and how does their relevance change under domain shift?**
 
