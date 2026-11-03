@@ -11,7 +11,7 @@ I've always had a hard time leaving a good "why?" unanswered — or a tricky pro
 
 **Which visual concepts do deep learning (DL) models rely on for object detection — and how does their relevance change under domain shift?**
 
-For my Master's thesis, in collaboration with Fraunhofer HHI, I'm investigating this question using YOLOv8 and Colorado potato beetle detection as a case study. I'm applying concept-based explainability methods (L-CRP and PCX) to analyze which concepts contribute to detections and how their relevance changes across domains.
+For my Master's thesis, in collaboration with Fraunhofer HHI & Leibniz-ATB, I'm investigating this question using YOLOv8 and Colorado potato beetle detection as a case study. I'm applying concept-based explainability methods (L-CRP and PCX) to analyze which concepts contribute to detections and how their relevance changes across domains.
 
 ## 💻 Selected Projects
 
